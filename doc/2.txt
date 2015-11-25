@@ -1,0 +1,3 @@
+a second file
+
+**Favorite color:   blue
